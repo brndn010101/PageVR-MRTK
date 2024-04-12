@@ -1,0 +1,34 @@
+.menu{
+  width: 100px;
+  height: 50px;
+  margin: 0px auto;
+  margin-top: 0px;
+}
+
+.navigation{
+    list-style: none;
+    padding: 15px;
+    background: #000000;
+    height: auto;
+    width: auto;
+    max-height: 100%;
+    max-width: 100%;
+    flex-wrap: wrap;
+  }
+  
+  .navigation li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    display: block;
+  }
+  
+  .navigation li{
+    display:inline-block;
+    text-align: center;
+  }
+  
+  .navigation li a:hover{
+    background: #0011ff;
+    color: rgb(255, 255, 255);
+  }

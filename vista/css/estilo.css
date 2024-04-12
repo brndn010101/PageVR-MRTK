@@ -1,0 +1,42 @@
+body{
+  background-color: rgb(102, 138, 150);
+}
+
+h1{
+  color:white;
+  text-align: center;
+}
+
+#contenedor{
+  border-style: none;
+  margin: 0px auto;
+  width: 100%;
+  height: 600px;
+}
+
+#encabezado{
+  background-color: darkgreen;
+  width: 100%;
+  height: 100px;
+  margin: 0px auto;
+}
+
+#formulario{
+  display: block;
+}
+
+#content-page{
+  width: 100%;
+  height: 600px;
+  margin: 0px auto;
+  background: white;
+}
+
+#pie-pagina{
+  width: 100%;
+  height: 350px;
+  padding-top: 10px;
+  margin: 0px auto;
+  background: #151e2c;
+  text-decoration: white;
+}
